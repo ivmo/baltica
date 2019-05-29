@@ -1,0 +1,11 @@
+*.ai
+*.log
+*.pdf
+*.psd
+*.zip
+*.txt
+*.sublime*
+node_modules/
+Thumbs.db
+build/
+maket/
